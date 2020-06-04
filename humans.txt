@@ -5,6 +5,7 @@
 
     <name> Ferenc Kadar  <role> Developer  <twitter>
     <email> kf@valami.com
+    Network Engineer
 
 # THANKS
 
