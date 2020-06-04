@@ -15,4 +15,6 @@ Adding Git Comparisons Lecture
 ## GitHub content
 Comparison with Repo
 
+## Contribution 
+Fork the Repo and raise pull request 
 
