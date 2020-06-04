@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Ferenc Kadar  <role> -- <twitter>
+    <name> Ferenc Kadar  <role> Developer  <twitter>
+    <email> kf@valami.com
 
 # THANKS
 
