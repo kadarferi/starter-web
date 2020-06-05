@@ -1,7 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifiing the file before rebase.
+
+Hi. Going to insert conflicts in my feature branch.
 
 # TEAM
 
