@@ -7,7 +7,8 @@ Hi, I am modifiing the file before rebase.
 
     <name> Ferenc Kadar  <role> Developer  <twitter>
     <email> kf@valami.com
-    Network Engineer
+    Network Engineer Level 3
+IT Organization
 
 # THANKS
 
