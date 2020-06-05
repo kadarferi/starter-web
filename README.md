@@ -8,6 +8,7 @@ Sample website with plenty of files for demos, whoch we are using as a Sample Pr
 
 ## Git and GitHub Training
 A lot of lectures are already submited.
+A lot of lectures is coming on.
 
 ## Git Comparisons 
 Adding Git Comparisons Lecture
