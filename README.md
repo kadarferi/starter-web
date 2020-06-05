@@ -11,6 +11,7 @@ A lot of lectures are already submited.
 
 ## Git Comparisons 
 Adding Git Comparisons Lecture
+We have done so much 
 
 ## GitHub content
 Comparison with Repo
