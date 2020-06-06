@@ -5,8 +5,8 @@
 Hi. Going to insert conflicts in my feature branch.
 
 Doing some changes in local.
-
 Doing some changes in local.
+Adding important Notes to Git Stash
 
 # TEAM
 
